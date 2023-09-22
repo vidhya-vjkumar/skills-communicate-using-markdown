@@ -3,3 +3,10 @@
 ### This is an example file for headers
 ## Adding images
 #### ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+``` python
+print('Hello World')
+```
